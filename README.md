@@ -87,7 +87,7 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
 </h2>
 <br />
-<<<<<<< HEAD
+
   <a href="mailto:neverlosepain@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/icon/19673/post.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/fcMLbrlTAtaP" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
